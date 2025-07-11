@@ -7,6 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushajs&label=Profile%20views&color=0e75b6&style=flat" alt="aayushajs" /> </p>
 
+
+
+
 #  About Me:
 ### 👋 About Me<br><br>- 🔭 I'm currently working on *MERN stack projects, integrating AI models, and building scalable web apps.<br>- 🤝 I'm looking to collaborate on **open-source projects, AI integrations, and backend optimizations.<br>- 🆘 I'm looking for help with **contributing to larger open-source communities and advanced DevOps practices.<br>- 🌱 I'm currently learning **TypeScript, Next.js, and advanced database optimizations.<br>- 💬 Ask me about **Node.js, Express.js, MongoDB, or building RESTful APIs*.<br>- 🎯 Fun fact: I love automating repetitive tasks and sometimes build bots to make my life easier!<br>
 Portfolio😎:-   https://aayush.studio/
@@ -29,7 +32,11 @@ Portfolio😎:-   https://aayush.studio/
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Aayushajs&limit=5&theme=github_dark&combine_all_yearly_contributions=true&hide_border=true)
 
+## PageSpeed Insights
+![](https://raw.githubusercontent.com/VishwaGauravIn/Images/f13849bc9989d66c67085313dd606ea978eff0f8/psi-gprm.svg)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Aayushajs&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
