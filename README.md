@@ -8,7 +8,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushajs&label=Profile%20views&color=0e75b6&style=flat" alt="aayushajs" /> </p>
 
 
-<img src="https://img.icons8.com/ios-filled/250/ffffff/github.png" alt="GitHub Logo" width="40" height="40"/>
 
 #  About Me:
 ### 👋 About Me<br><br>- 🔭 I'm currently working on *MERN stack projects, integrating AI models, and building scalable web apps.<br>- 🤝 I'm looking to collaborate on **open-source projects, AI integrations, and backend optimizations.<br>- 🆘 I'm looking for help with **contributing to larger open-source communities and advanced DevOps practices.<br>- 🌱 I'm currently learning **TypeScript, Next.js, and advanced database optimizations.<br>- 💬 Ask me about **Node.js, Express.js, MongoDB, or building RESTful APIs*.<br>- 🎯 Fun fact: I love automating repetitive tasks and sometimes build bots to make my life easier!<br>
